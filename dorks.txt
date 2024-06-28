@@ -1,44 +1,71 @@
 site:linkedin.com "{}" email phone
 site:linkedin.com "{}" current position
+site:linkedin.com "{}" "profile"
+site:linkedin.com "{}" "posts"
+site:linkedin.com "{}" "likes"
 site:facebook.com "{}" email phone
 site:facebook.com "{}" posts comments likes
+site:facebook.com "{}" "profile"
+site:facebook.com "{}" "posts"
+site:facebook.com "{}" "likes"
 site:x.com intitle:"{}" -inurl:status -inurl:likes
 site:x.com intitle:"{}" intext:email phone
-site:github.com "{}" location
-site:github.com "{}" contributions followers
-site:drive.google.com "{}" email
-site:drive.google.com "{}" phone
-site:dropbox.com "{}" email phone
-site:dropbox.com "{}" contact
-site:app.box.com "{}" email
-site:app.box.com "{}" phone
-site:onedrive.live.com "{}" email
-site:onedrive.live.com "{}" phone
-site:trello.com "{}" email phone
-site:trello.com "{}" contact
-site:slack.com "{}" email
-site:slack.com "{}" phone
-site:asana.com "{}" email
-site:asana.com "{}" phone
-site:jira.com "{}" email
-site:jira.com "{}" phone
-site:zoom.com "{}" email phone
-site:zoom.com "{}" contact
-site:office.com "{}" email
-site:office.com "{}" phone
-site:sharepoint.com "{}" email
-site:sharepoint.com "{}" phone
-site:gist.github.com "{}" email
-site:gist.github.com "{}" phone
-site:pastebin.com "{}" email
-site:pastebin.com "{}" phone
+site:x.com "{}" "profile"
+site:x.com "{}" "posts"
+site:x.com "{}" "phone"
+site:x.com "{}" "email"
 site:x.com "{}" inurl:"media"
 site:x.com "{}" inurl:"status"
+site:github.com "{}" location
+site:github.com "{}" contributions followers
+site:github.com "{}" "posts"
+site:github.com "{}" "profile"
+site:github.com "{}" "likes"
+site:github.com "{}" "phone"
+site:github.com "{}" "email"
+site:gist.github.com "{}" email
+site:gist.github.com "{}" phone
 site:instagram.com "{}" inurl:"/p/"
-site:instagram.com "{}" inurl:"/p/"
+site:instagram.com "{}" "profile"
+site:instagram.com "{}" "posts"
+site:instagram.com "{}" "likes"
+site:instagram.com "{}" "phone"
+site:instagram.com "{}" "email"
 site:youtube.com "{}" inurl:"watch?v="
-site:youtube.com "{}" inurl:"watch?v="
+site:youtube.com "{}" "profile"
+site:youtube.com "{}" "posts"
+site:youtube.com "{}" "likes"
+site:youtube.com "{}" "phone"
+site:youtube.com "{}" "email"
 site:tiktok.com "{}" inurl:"@"
-site:tiktok.com "{}" inurl:"@"
+site:tiktok.com "{}" "profile"
+site:tiktok.com "{}" "posts"
+site:tiktok.com "{}" "likes"
+site:tiktok.com "{}" "phone"
+site:tiktok.com "{}" "email"
 site:twitch.tv "{}" inurl:"/videos/"
-site:twitch.tv "{}" inurl:"/videos/"
+site:twitch.tv "{}" "profile"
+site:twitch.tv "{}" "posts"
+site:twitch.tv "{}" "likes"
+site:twitch.tv "{}" "phone"
+site:twitch.tv "{}" "email"
+site:medium.com "{}" "profile"
+site:medium.com "{}" "posts"
+site:medium.com "{}" "likes"
+site:medium.com "{}" "phone"
+site:medium.com "{}" "email"
+site:reddit.com "{}" "profile"
+site:reddit.com "{}" "posts"
+site:reddit.com "{}" "likes"
+site:reddit.com "{}" "phone"
+site:reddit.com "{}" "email"
+site:pinterest.com "{}" "profile"
+site:pinterest.com "{}" "posts"
+site:pinterest.com "{}" "likes"
+site:pinterest.com "{}" "phone"
+site:pinterest.com "{}" "email"
+site:snapchat.com "{}" "profile"
+site:snapchat.com "{}" "posts"
+site:snapchat.com "{}" "likes"
+site:snapchat.com "{}" "phone"
+site:snapchat.com "{}" "email"
