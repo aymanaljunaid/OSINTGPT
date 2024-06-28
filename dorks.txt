@@ -1,0 +1,44 @@
+site:linkedin.com "{}" email phone
+site:linkedin.com "{}" current position
+site:facebook.com "{}" email phone
+site:facebook.com "{}" posts comments likes
+site:x.com intitle:"{}" -inurl:status -inurl:likes
+site:x.com intitle:"{}" intext:email phone
+site:github.com "{}" location
+site:github.com "{}" contributions followers
+site:drive.google.com "{}" email
+site:drive.google.com "{}" phone
+site:dropbox.com "{}" email phone
+site:dropbox.com "{}" contact
+site:app.box.com "{}" email
+site:app.box.com "{}" phone
+site:onedrive.live.com "{}" email
+site:onedrive.live.com "{}" phone
+site:trello.com "{}" email phone
+site:trello.com "{}" contact
+site:slack.com "{}" email
+site:slack.com "{}" phone
+site:asana.com "{}" email
+site:asana.com "{}" phone
+site:jira.com "{}" email
+site:jira.com "{}" phone
+site:zoom.com "{}" email phone
+site:zoom.com "{}" contact
+site:office.com "{}" email
+site:office.com "{}" phone
+site:sharepoint.com "{}" email
+site:sharepoint.com "{}" phone
+site:gist.github.com "{}" email
+site:gist.github.com "{}" phone
+site:pastebin.com "{}" email
+site:pastebin.com "{}" phone
+site:x.com "{}" inurl:"media"
+site:x.com "{}" inurl:"status"
+site:instagram.com "{}" inurl:"/p/"
+site:instagram.com "{}" inurl:"/p/"
+site:youtube.com "{}" inurl:"watch?v="
+site:youtube.com "{}" inurl:"watch?v="
+site:tiktok.com "{}" inurl:"@"
+site:tiktok.com "{}" inurl:"@"
+site:twitch.tv "{}" inurl:"/videos/"
+site:twitch.tv "{}" inurl:"/videos/"
