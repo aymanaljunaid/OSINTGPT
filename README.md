@@ -18,9 +18,9 @@ OSINTGPT is a tool designed to gather OSINT (Open Source Intelligence) informati
    ```
 
 2. Install the requirements:
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Edit the .env file in the project directory with your API keys:
    ```bash
