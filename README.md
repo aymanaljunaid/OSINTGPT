@@ -33,7 +33,7 @@ OSINTGPT is a tool designed to gather OSINT (Open Source Intelligence) informati
 1. You can edit the dorks.txt file in the project directory and add more Google Dorks if you want.
 2. Run the tool:
    ```bash
-   python osint_tool.py "John Doe"
+   python3 osint_tool.py "John Doe"
    ```
 
 ##Disclaimer
