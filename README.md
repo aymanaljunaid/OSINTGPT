@@ -28,7 +28,8 @@ OSINTGPT is a tool designed to gather OSINT (Open Source Intelligence) informati
    GOOGLE_CSE_ID=your_google_cse_id
    OPENAI_API_KEY=your_openai_api_key
    ```
-##Usage
+
+## Usage
 
 1. You can edit the dorks.txt file in the project directory and add more Google Dorks if you want.
 2. Run the tool:
@@ -36,5 +37,6 @@ OSINTGPT is a tool designed to gather OSINT (Open Source Intelligence) informati
    python3 osint_tool.py "John Doe"
    ```
 
-##Disclaimer
+## Disclaimer
+
 This tool is designed to gather information that is publicly available. Please use it responsibly and ethically.
